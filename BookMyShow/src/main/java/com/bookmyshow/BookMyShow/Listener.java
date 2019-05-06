@@ -1,0 +1,25 @@
+package com.bookmyshow.BookMyShow;
+
+import org.testng.ITestResult;
+import org.testng.TestListenerAdapter;
+
+public class Listener extends TestListenerAdapter{
+	
+	//On Pass
+	public void onTestSuccess(ITestResult tr) {
+	   System.out.println("As Expected");
+	 
+	  }
+
+	//On Fail
+	public void onTestFailure(ITestResult tr) {
+		   System.out.println("Not as Expected");
+		  }
+	//On Skip
+	public void onTestSkipped(ITestResult tr) {
+		   System.out.println("Test Skipped Without Run");
+		  }
+	
+	
+}
+

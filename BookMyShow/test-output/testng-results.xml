@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BMS suite" duration-ms="13559" started-at="2019-05-06T20:17:08Z" finished-at="2019-05-06T20:17:22Z">
+    <groups>
+    </groups>
+    <test name="BMS Test" duration-ms="13559" started-at="2019-05-06T20:17:08Z" finished-at="2019-05-06T20:17:22Z">
+      <class name="com.bookmyshow.BookMyShow.Launch">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.bookmyshow.BookMyShow.Launch@66a3ffec]" name="launchBrowser" duration-ms="13511" started-at="2019-05-07T01:47:08Z" finished-at="2019-05-07T01:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- com.bookmyshow.BookMyShow.Launch -->
+    </test> <!-- BMS Test -->
+  </suite> <!-- BMS suite -->
+</testng-results>

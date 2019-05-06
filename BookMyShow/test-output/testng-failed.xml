@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BMS suite]">
+  <listeners>
+    <listener class-name="com.bookmyshow.BookMyShow.Listener"/>
+  </listeners>
+  <test name="BMS Test(failed)">
+    <classes>
+      <class name="com.bookmyshow.BookMyShow.Launch">
+        <methods>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.bookmyshow.BookMyShow.Launch -->
+    </classes>
+  </test> <!-- BMS Test(failed) -->
+</suite> <!-- Failed suite [BMS suite] -->

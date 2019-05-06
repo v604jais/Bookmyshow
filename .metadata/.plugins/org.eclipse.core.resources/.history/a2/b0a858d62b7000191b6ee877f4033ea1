@@ -1,0 +1,26 @@
+package com.bookmyshow.BookMyShow;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.*;
+import org.testng.annotations.Test;
+
+public class Launch {
+
+	
+		
+		@Test
+		private static void launchBrowser() {
+		try {
+			System.setProperty("webdriver.chrome.driver", "E:\\Bookmyshow\\BookMyShow\\Drivers\\chromedriver.exe");
+			WebDriver driver=new ChromeDriver();
+			driver.navigate().to("https://in.bookmyshow.com");
+			String Title=driver.getTitle();
+			Assert.assertEquals(Title, "Movie Tickets, Plays, Sports, Events & Cinemas nearby - BookMyShow");
+			}
+			catch(Exception e) {
+				System.out.println(e);
+			}
+	}
+
+}

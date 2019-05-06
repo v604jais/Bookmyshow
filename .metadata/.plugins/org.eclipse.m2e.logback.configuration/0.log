@@ -1,0 +1,219 @@
+2019-05-06 22:55:38,099 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-06 22:58:30,900 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Bookmyshow\BookMyShow\pom.xml
+2019-05-06 22:58:36,478 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookmyshow:BookMyShow:0.0.1-SNAPSHOT @ E:\Bookmyshow\BookMyShow\pom.xml.
+2019-05-06 22:58:37,845 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookMyShow/src/main/java
+2019-05-06 22:58:37,855 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookMyShow/src/test/java
+2019-05-06 22:58:39,279 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2019-05-06 22:58:40,494 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 22:58:40,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 22:58:40,498 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 22:58:40,498 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:05:35,043 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookmyshow:BookMyShow:0.0.1-SNAPSHOT @ E:\Bookmyshow\BookMyShow\pom.xml.
+2019-05-06 23:05:35,746 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:35,747 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:05:35,753 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:35,753 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:05:37,098 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:37,099 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:05:37,104 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:37,104 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:05:49,353 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:49,354 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:05:49,358 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:49,359 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:05:56,525 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:56,525 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:05:56,530 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:05:56,531 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:07:48,128 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:07:48,129 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:07:48,133 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:07:48,133 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:07:49,214 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:07:49,215 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:07:49,218 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:07:49,219 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:08:24,541 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:08:24,542 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:08:24,547 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:08:24,547 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:08:35,546 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:08:35,547 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:08:35,569 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:08:35,569 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:12:08,357 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:12:08,357 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:12:08,362 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:12:08,362 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:16:45,689 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookmyshow:BookMyShow:0.0.1-SNAPSHOT @ E:\Bookmyshow\BookMyShow\pom.xml.
+2019-05-06 23:16:47,221 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:16:47,222 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:16:47,226 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:16:47,227 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:16:48,817 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:16:48,817 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:16:48,821 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:16:48,821 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:20:47,725 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:20:47,725 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:20:47,728 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:20:47,728 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:22:41,762 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:22:41,763 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:22:41,766 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:22:41,767 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:25:16,506 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:25:16,506 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:25:16,510 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:25:16,510 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:33:33,104 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:33:33,104 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:33:33,112 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:33:33,115 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:33:58,980 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:33:58,980 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:33:58,983 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:33:58,983 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:34:55,516 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:34:55,516 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:34:55,523 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:34:55,524 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:36:19,996 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:36:19,997 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:36:20,002 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:36:20,003 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:51:42,143 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:51:42,144 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:51:42,147 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:51:42,148 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-06 23:51:59,584 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:51:59,585 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-06 23:51:59,587 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 23:51:59,587 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 00:18:18,603 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:18:18,603 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 00:18:18,606 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:18:18,606 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 00:20:07,136 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:20:07,137 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 00:20:07,140 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:20:07,140 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 00:49:42,246 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:49:42,246 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 00:49:42,249 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:49:42,250 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 00:51:55,381 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:51:55,382 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 00:51:55,386 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:51:55,386 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 00:55:16,985 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:55:16,985 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 00:55:16,991 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:55:16,992 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 00:55:46,189 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:55:46,190 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 00:55:46,193 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 00:55:46,193 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:02:13,465 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:02:13,465 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:02:13,468 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:02:13,469 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:09:49,762 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:09:49,763 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:09:49,765 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:09:49,765 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:11:46,904 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:11:46,904 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:11:46,927 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:11:46,928 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:14:17,857 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:14:17,858 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:14:17,860 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:14:17,861 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:20:17,755 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:20:17,755 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:20:17,758 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:20:17,758 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:23:19,897 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:23:19,898 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:23:19,928 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:23:19,929 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:25:20,491 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:25:20,491 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:25:20,494 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:25:20,494 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:28:42,230 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:28:42,231 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:28:42,233 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:28:42,234 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:30:23,739 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @9334065ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-05-07 01:30:24,953 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-22T02:57:37+05:30, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2019-05-07 01:30:25,120 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2019-05-07 01:30:25,121 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2019-05-07 01:30:25,146 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2019-05-07 01:30:25,432 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@ca143e3{/help,null,AVAILABLE}
+2019-05-07 01:30:25,612 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@41214be7{HTTP/1.1,[http/1.1]}{127.0.0.1:3523}
+2019-05-07 01:30:25,613 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @9335939ms
+2019-05-07 01:31:07,420 [Worker-42] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:31:07,587 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:31:07,587 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:31:07,588 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:31:07,589 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:32:21,037 [Worker-44] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:32:21,044 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:32:21,045 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:32:21,048 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:32:21,049 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:34:52,084 [Worker-45] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:34:52,092 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:34:52,093 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:34:52,101 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:34:52,101 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:36:04,846 [Worker-44] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:36:04,852 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:36:04,852 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:36:04,854 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:36:04,855 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:40:15,721 [Worker-42] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:40:15,734 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:40:15,735 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:40:15,738 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:40:15,738 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:40:49,559 [Worker-42] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:40:49,564 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:40:49,564 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:40:49,567 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:40:49,568 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:42:13,680 [Worker-24] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:42:13,694 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:42:13,694 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:42:13,698 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:42:13,698 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:42:46,209 [Worker-45] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:42:46,213 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:42:46,214 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:42:46,216 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:42:46,216 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:43:42,980 [Worker-32] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:43:42,985 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:43:42,986 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:43:42,988 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:43:42,988 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:44:45,467 [Worker-39] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:44:45,472 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:44:45,473 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:44:45,475 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:44:45,476 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:46:43,993 [Worker-44] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:46:43,999 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:46:43,999 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:46:44,003 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:46:44,004 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:48:45,088 [Worker-32] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-05-07 01:48:45,100 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:48:45,100 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\main\resources
+2019-05-07 01:48:45,105 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-07 01:48:45,106 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bookmyshow\BookMyShow\src\test\resources
+2019-05-07 01:51:59,216 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@41214be7{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2019-05-07 01:51:59,217 [Stop Help Server] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2019-05-07 01:51:59,325 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@ca143e3{/help,null,UNAVAILABLE}
