@@ -22,7 +22,7 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import org.apache.commons.io.FileUtils;
 public class Report {
 
-	static Properties p;
+	public static Properties p;
 	ExtentReports reports;
 	ExtentTest testInfo;
 	WebDriver driver;

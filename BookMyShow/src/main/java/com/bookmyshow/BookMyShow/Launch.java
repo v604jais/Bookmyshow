@@ -12,7 +12,7 @@ public class Launch extends Report {
 	
 
 	
-	@Test 
+	@Test (priority=1)
 	public static void launchBrowser() {
 		try {
 			System.setProperty("webdriver.chrome.driver", "E:\\Bookmyshow\\BookMyShow\\Drivers\\chromedriver.exe");
@@ -23,6 +23,10 @@ public class Launch extends Report {
 			String Title=driver.getTitle();
 			Assert.assertEquals(Title, "Movie Tickets, Plays, Sports, Events & Cinemas nearby - BookMyShow");
 			
+			// continuation
+			SignIN s=new SignIN(driver);
+			s.typePlace();
+			s.hitOnSignIn();
 			}
 			catch(Exception e) {
 				System.out.println(e);

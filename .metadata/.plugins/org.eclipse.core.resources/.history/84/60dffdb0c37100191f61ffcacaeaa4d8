@@ -1,0 +1,41 @@
+package com.bookmyshow.BookMyShow;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class SignIN extends Report{
+
+	
+	
+	WebDriver driver;
+	
+	By placeName=By.xpath("//input[@id='inp_RegionSearch_top']");
+    By signIn=By.xpath("//a[@id='preSignIn']");
+ 
+	public  SignIN(WebDriver driver)
+	{
+	 this.driver=driver;
+	}
+	
+	public void typePlace()
+	{
+	 WebElement CitySearchBox=driver.findElement(placeName);
+	 CitySearchBox.sendKeys(p.getProperty("City"));
+	 CitySearchBox.sendKeys(Keys.ENTER);
+	 
+	}
+	public void hitOnSignIn()
+	{
+	driver.findElement(signIn).click();
+	}
+	
+	public void typeUserName()
+	{
+	driver.findElement(placeName).sendKeys(p.getProperty("City"));
+	}
+	
+	
+	
+}

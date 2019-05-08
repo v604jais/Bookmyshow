@@ -1,5 +1,18 @@
 package com.bookmyshow.BookMyShow;
 
-public class BMS_1 {
+import org.testng.annotations.Test;
+
+public class BMS_1 extends Launch {
+	
+	@Test
+	
+	public  void test() {
+	
+   
+		
+	launchBrowser();
+	
+	
+	}
 
 }
