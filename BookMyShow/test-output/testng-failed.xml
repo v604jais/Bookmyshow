@@ -3,15 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.bookmyshow.BookMyShow.BMS_1">
+      <class name="com.bookmyshow.BookMyShow.Launch">
         <methods>
           <include name="launchBrowser"/>
           <include name="setUp"/>
           <include name="status"/>
           <include name="register"/>
-          <include name="test"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.bookmyshow.BookMyShow.BMS_1 -->
+      </class> <!-- com.bookmyshow.BookMyShow.Launch -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
