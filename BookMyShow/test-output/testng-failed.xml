@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [BMS suite]">
-  <listeners>
-    <listener class-name="com.bookmyshow.BookMyShow.Listener"/>
-  </listeners>
-  <test name="BMS Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
       <class name="com.bookmyshow.BookMyShow.Launch">
         <methods>
           <include name="launchBrowser"/>
+          <include name="setUp"/>
+          <include name="status"/>
+          <include name="register"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.bookmyshow.BookMyShow.Launch -->
     </classes>
-  </test> <!-- BMS Test(failed) -->
-</suite> <!-- Failed suite [BMS suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

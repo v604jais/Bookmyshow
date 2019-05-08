@@ -6,6 +6,10 @@
       <class name="com.bookmyshow.BookMyShow.Launch">
         <methods>
           <include name="launchBrowser"/>
+          <include name="setUp"/>
+          <include name="status"/>
+          <include name="register"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.bookmyshow.BookMyShow.Launch -->
     </classes>

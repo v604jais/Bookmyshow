@@ -2,16 +2,46 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="BMS suite" duration-ms="13559" started-at="2019-05-06T20:17:08Z" finished-at="2019-05-06T20:17:22Z">
+  <suite name="Default suite" duration-ms="39765" started-at="2019-05-08T17:03:09Z" finished-at="2019-05-08T17:03:49Z">
     <groups>
     </groups>
-    <test name="BMS Test" duration-ms="13559" started-at="2019-05-06T20:17:08Z" finished-at="2019-05-06T20:17:22Z">
+    <test name="Default test" duration-ms="39765" started-at="2019-05-08T17:03:09Z" finished-at="2019-05-08T17:03:49Z">
       <class name="com.bookmyshow.BookMyShow.Launch">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.bookmyshow.BookMyShow.Launch@66a3ffec]" name="launchBrowser" duration-ms="13511" started-at="2019-05-07T01:47:08Z" finished-at="2019-05-07T01:47:22Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bookmyshow.BookMyShow.Launch@6eebc39e]" name="setUp" is-config="true" duration-ms="693" started-at="2019-05-08T22:33:09Z" finished-at="2019-05-08T22:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.bookmyshow.BookMyShow.Launch@6eebc39e]" name="register" is-config="true" duration-ms="11" started-at="2019-05-08T22:33:10Z" finished-at="2019-05-08T22:33:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.bookmyshow.BookMyShow.Launch.launchBrowser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.bookmyshow.BookMyShow.Launch@6eebc39e]" name="launchBrowser" duration-ms="37929" started-at="2019-05-08T22:33:10Z" finished-at="2019-05-08T22:33:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="status(org.testng.ITestResult)[pri:0, instance:com.bookmyshow.BookMyShow.Launch@6eebc39e]" name="status" is-config="true" duration-ms="25" started-at="2019-05-08T22:33:48Z" finished-at="2019-05-08T22:33:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launchBrowser status=SUCCESS method=Launch.launchBrowser()[pri:0, instance:com.bookmyshow.BookMyShow.Launch@6eebc39e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bookmyshow.BookMyShow.Launch@6eebc39e]" name="tearDown" is-config="true" duration-ms="1048" started-at="2019-05-08T22:33:48Z" finished-at="2019-05-08T22:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- com.bookmyshow.BookMyShow.Launch -->
-    </test> <!-- BMS Test -->
-  </suite> <!-- BMS suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
